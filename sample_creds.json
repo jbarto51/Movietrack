@@ -1,0 +1,13 @@
+{
+    "discord_token": "",
+    "openai": {
+        "api_key": ""
+    },
+    "moviedb": {
+        "api_key": "",
+        "read_access_token": ""
+    },
+    "mongodb": {
+        "url": ""
+    }
+}
